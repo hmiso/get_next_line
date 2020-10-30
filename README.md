@@ -6,7 +6,9 @@ Prototype int get_next_line(int fd, char **line);
 Parameters
 
 #1. file descriptor for reading
+
 #2. The value of what has been read
+
 Return value
 
 1 : A line has been read
